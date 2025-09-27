@@ -1,5 +1,5 @@
 ## HELLO WORLD 👋
-Meu nomne e Arthur
+Meu nome e Arthur
 
 
 - 🔭 atualmente estou no terceiro ano do ensino medio técnico
