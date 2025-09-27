@@ -1,5 +1,5 @@
 ## HELLO WORLD 👋
-Meu nome e Arthur
+Meu nome e Arthur.
 Sou aspirante a TI. Porem, atualmente ainda estou terminando o ensino medio e fazendo cursos sobre a área da TI em geral, mas especifico, a área de Desenvolvimento de Sistemas
 
 
